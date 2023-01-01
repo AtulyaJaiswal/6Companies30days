@@ -1,3 +1,5 @@
+// Simple postfix expression solving question
+
 class Solution {
      public int evalRPN(String[] t) {
          Stack<Integer> st=new Stack<>();

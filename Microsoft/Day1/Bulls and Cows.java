@@ -1,3 +1,6 @@
+// Just keep on counting the bulls and cows
+// Tricky
+
 public class Solution {
      public String getHint(String secret, String guess) {
           int bulls = 0;

@@ -1,3 +1,6 @@
+// Can be solved using take/notTake technique of recursion
+// Update ans everytime we reach end of numbers
+
 public class Solution {
      public List<List<Integer>> combinationSum3(int k, int n) {
           List<List<Integer>> ans=new ArrayList<>();
